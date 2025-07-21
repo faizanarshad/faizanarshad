@@ -1,6 +1,12 @@
 <!-- Animated Gradient Header -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=00FFC2&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Faizan+Arshad!;💡+AI+Engineer+%7C+ML+Researcher+%7C+Data+Scientist;🔍+Innovating+with+Data+and+AI+every+day." alt="Typing SVG" />
+<h1 align="center">👋 Hi, I'm Faizan Arshad</h1>
+
+<p align="center">
+  <strong>AI Engineer</strong> &nbsp;|&nbsp; <strong>Data Scientist</strong> &nbsp;|&nbsp; <strong>ML Researcher</strong><br>
+  <em>Turning Data into Intelligence, Creatively.</em>
+</p>
+
 
 </p>
 
