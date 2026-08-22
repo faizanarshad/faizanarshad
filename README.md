@@ -2,6 +2,14 @@
 <p align="center">
 <h1 align="center">👋 Hi, I'm Faizan Arshad</h1>
 
+AI engineer specializing in RAG systems, LLM agents, and full stack applications for healthcare and beyond. I build with LangChain, LangGraph, Claude API, Python, FastAPI, React, and Node.js, handling projects end to end from data pipeline through deployment.
+
+Recent work includes Caregiver Training Hub, a RAG powered healthcare platform for family caregivers, and AssistMedica, an agentic clinic scheduling assistant using Claude API tool calling.
+
+MS in Computer Science, published in Springer conference proceedings. Top Rated on Upwork with a 100% Job Success Score.
+
+📧 faizanarshad124@gmail.com
+
 <p align="center">
   <strong>AI Engineer</strong> &nbsp;|&nbsp; <strong>Data Scientist</strong> &nbsp;|&nbsp; <strong>ML Researcher</strong><br>
   <em>Turning Data into Intelligence, Creatively.</em>
