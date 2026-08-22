@@ -11,7 +11,7 @@ MS in Computer Science, published in Springer conference proceedings. Top Rated 
 📧 faizanarshad124@gmail.com
 
 <p align="center">
-  <strong>AI Engineer</strong> &nbsp;|&nbsp; <strong>Data Scientist</strong> &nbsp;|&nbsp; <strong>ML Researcher</strong><br>
+  <strong>AI Engineer</strong> &nbsp;|&nbsp; <strong>Data Scientist</strong> &nbsp;|&nbsp; <strong>Full Stack Developer/strong><br>
   <em>Turning Data into Intelligence, Creatively.</em>
 </p>
 
