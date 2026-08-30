@@ -38,9 +38,9 @@ MS in Computer Science, published in Springer conference proceedings. Top Rated 
 
 ```yaml
 name: Faizan Arshad
-roles: [ Data Scientist, AI Engineer, ML Researcher ]
-specialties: [ Deep Learning, NLP, Computer Vision, Data Analytics, MLOps ]
-interests: [ Generative AI, LLMs, Model Optimization, AI Safety, Visualization ]
+roles: [ Data Scientist, AI Engineer, Full Stack Developer ]
+specialties: [ Deep Learning, NLP, Computer Vision, LLM, RAG, AI Chatbots, Full Stack Web Applications ]
+interests: [ Generative AI, LLMs, Model Optimization, AI Safety, Visualization, Healthcare AI ]
 quote: "Machine learning is art, science, and a little bit of magic."
 ```
 
@@ -96,26 +96,9 @@ quote: "Machine learning is art, science, and a little bit of magic."
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanarshad&show_icons=true&theme=calm&hide_border=true&bg_color=0e153a,6dd5ed,2193b0,43e97b&title_color=fff&icon_color=fff&text_color=fff" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanarshad&theme=highcontrast&background=0e153a&currStreakLabel=6dd5ed" width="48%">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faizanarshad&bg_color=0e153a,6dd5ed,2193b0,43e97b&color=fff&line=6dd5ed&point=2193b0&area=true&hide_border=true" width="100%">
-</p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizanarshad&theme=algolia&row=1&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 ## 📬 Let's Connect!
 
