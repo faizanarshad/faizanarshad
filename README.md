@@ -91,9 +91,8 @@ quote: "Machine learning is art, science, and a little bit of magic."
 
 ## 📰 Publications & Talks
 
-- [Awesome Paper Title](https://your-link.com) — Journal/Conference Name, Year.
-- [Another Publication](https://your-link.com) — Where, Year.
-- [AI for Good: My Conference Talk](https://your-link.com)
+- [Improving Validity of Disaster Related Information by Identifying Correlation Among Different Social Media Streams](https://doi.org/10.1007/978-981-15-5232-8_29) —Intelligent Technologies and Applications. INTAP 2019. Communications in Computer and Information Science, vol 1198. Springer, Singapore, 2019.
+
 
 ---
 
