@@ -64,25 +64,25 @@ quote: "Machine learning is art, science, and a little bit of magic."
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/faizanarshad/llm-chatbot">
+      <a href="https://github.com/faizanarshad/Agentic_RAG_System">
         <img src="https://raw.githubusercontent.com/faizanarshad/llm-chatbot/main/preview.gif" width="140"><br>
-        <b>LLM Chatbot</b>
+        <b>LLM RAG SYSTEM FOR LEGAL DOCUMENTS</b>
       </a>
       <br>Custom GPT-like chatbot powered by Transformers and RAG.
     </td>
     <td align="center">
-      <a href="https://github.com/faizanarshad/vision-x">
+      <a href="https://github.com/faizanarshad/PickitPoint">
         <img src="https://raw.githubusercontent.com/faizanarshad/vision-x/main/preview.gif" width="140"><br>
         <b>Vision-X</b>
       </a>
-      <br>Real-time object detection & segmentation.
+      <br>Real-time AI Product Recommendation.
     </td>
     <td align="center">
-      <a href="https://github.com/faizanarshad/auto-mlops">
+      <a href="https://github.com/faizanarshad/AI-Based-Virtual-Painter">
         <img src="https://raw.githubusercontent.com/faizanarshad/auto-mlops/main/preview.gif" width="140"><br>
         <b>Auto-MLOps</b>
       </a>
-      <br>Automated ML pipelines from training to deployment.
+      <br>Real-time AI Virtual Painter.
     </td>
   </tr>
 </table>
