@@ -1,6 +1,6 @@
 <!-- Animated Gradient Header -->
 <p align="center">
-<h1 align="center">👋 Hi, I'm Faizan Arshad</h1>
+<h1 align="center"> Hi, I'm Faizan Arshad</h1>
 
 AI engineer specializing in RAG systems, LLM agents, and full stack applications for healthcare and beyond. I build with LangChain, LangGraph, Claude API, Python, FastAPI, React, and Node.js, handling projects end to end from data pipeline through deployment.
 
@@ -73,14 +73,14 @@ quote: "Machine learning is art, science, and a little bit of magic."
     <td align="center">
       <a href="https://github.com/faizanarshad/PickitPoint">
         <img src="https://raw.githubusercontent.com/faizanarshad/vision-x/main/preview.gif" width="140"><br>
-        <b>Vision-X</b>
+        <b>PickitPoint</b>
       </a>
       <br>Real-time AI Product Recommendation.
     </td>
     <td align="center">
       <a href="https://github.com/faizanarshad/AI-Based-Virtual-Painter">
         <img src="https://raw.githubusercontent.com/faizanarshad/auto-mlops/main/preview.gif" width="140"><br>
-        <b>Auto-MLOps</b>
+        <b>AI Hand Gesture Drawing</b>
       </a>
       <br>Real-time AI Virtual Painter.
     </td>
