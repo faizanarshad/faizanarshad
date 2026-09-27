@@ -1,6 +1,6 @@
 <!-- Animated Gradient Header -->
 <p align="center">
-<h1 align="center"> Hi, I'm Faizan Arshad</h1>
+<h1 align="center"> Faizan Arshad</h1>
 
 AI engineer specializing in RAG systems, LLM agents, and full stack applications for healthcare and beyond. I build with LangChain, LangGraph, Claude API, Python, FastAPI, React, and Node.js, handling projects end to end from data pipeline through deployment.
 
